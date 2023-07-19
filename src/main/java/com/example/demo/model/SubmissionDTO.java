@@ -55,6 +55,7 @@ public class SubmissionDTO {
     public String leadName;
     public String Technology;
 
+    //SubmissionDTO model
 
 
 }
